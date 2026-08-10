@@ -2,6 +2,13 @@
 
 **Start:** Mon 10 Aug 2026  |  **College:** 9–6 Mon–Sat  |  **Sunday:** review only
 
+> **Never coded before?** Complete the 5-day Python ramp (`01_PYTHON_FROM_ZERO.md`)
+> first, then start Day 1 on **Mon 17 Aug** (your DSA table just shifts by that week —
+> keep using Day# as your counter, not the calendar date). If you can read Python,
+> start Day 1 today (10 Aug).
+
+**DSA Day 1 → 150:** 1 problem/day, Mon–Sat. Solve honestly, then log it.
+
 | Day | Date | LC # | Problem | Topic | Diff | Companies (public reports) |
 |---:|---|---:|---|---|---|---|
 | 1 | Mon, 10 Aug 2026 | 88 | Merge Sorted Array | Array | Easy | Amazon, Meta, Apple |

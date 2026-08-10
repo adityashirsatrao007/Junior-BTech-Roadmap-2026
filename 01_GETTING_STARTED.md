@@ -75,6 +75,9 @@ gh auth login
 
 ## 4. Day-1 mini victory (build momentum)
 
+**Never coded before? Start with `01_PYTHON_FROM_ZERO.md` + run `ml-code/00_python_first.py`
+right now** — it's your first program, ~10 minutes. Then come back here.
+
 Make your first "Hello world" simultaneously on **GitHub + VS Code + terminal**:
 
 1. `git init` a folder named `hello-world`

@@ -13,8 +13,8 @@ aptitude stays mornings, Sunday = backlog review. "FS W3" = Full Stack week 3 in
 
 | Week | Dates (Mon–Sun) | Focus module | This week you ship / milestone |
 |------|-----------------|--------------|-------------------------------|
-| W1 | 10–16 Aug | **Core CS sprint** `13` | DBMS days 1–5 done |
-| W2 | 17–23 Aug | Core CS sprint | OS days 6–12 mid |
+| W1 | 10–16 Aug | **Core CS sprint** `13` + **Python ramp** | DBMS days 1–5 done + run `00_python_first.py`, finish `01_PYTHON_FROM_ZERO.md` ramp |
+| W2 | 17–23 Aug | Core CS sprint + **DSA Day 1 starts** | OS days 6–12 mid + DSA #1–6 |
 | W3 | 24–30 Aug | Core CS sprint | CN days 13–16 done |
 | W4 | 31 Aug–6 Sep | Core CS sprint | SE days 17–21 during W4–5 |
 | W5 | 7–13 Sep | Core CS sprint + OOP | sprint done by 9 Sep: 12 classics memorised |
@@ -95,6 +95,8 @@ aptitude stays mornings, Sunday = backlog review. "FS W3" = Full Stack week 3 in
 ## How the planner fits the base clock
 
 - **Mon/Wed/Fri Focus slot** → this planner's weekly row.
+- **18:30 DSA slot** → DSA daily (`03`). *Week 1 only: replaced by the Python ramp
+  (`01_PYTHON_FROM_ZERO.md` + `ml-code/00`) for students who've never coded; DSA Day 1 = 17 Aug.*
 - **Tue/Sat 19:30–20:30** → SQL (`04_SQL_TOP_50.md`) — never displaced.
 - **Sunday** → weekly snapshot (`02` §3) + Core CS maintenance after 12 Sep.
 - **Exam weeks** → pause Focus module (per `02`), keep aptitude + 1 DSA + SQL.

@@ -16,6 +16,7 @@ Three career lanes — pick yours, but the first 6 months are identical.
 
 **Local (Windows — installed via `00_SETUP_WINDOWS.md`):**
 - **Jupyter / JupyterLab** — interactive notebooks. Start: `ds-code/01_jupyter_demo.ipynb` → then `ds-code/02_stats_viz.ipynb` (statistics + seaborn, run 01 first)
+- **Python itself** — **never coded before?** first do `01_PYTHON_FROM_ZERO.md` + run `ml-code/00_python_first.py` (5-day ramp). Everything here assumes you've done that.
 - Python: pandas, numpy, matplotlib, seaborn, scikit-learn, joblib
 - VS Code (opening a `.ipynb` gives you a full notebook editor)
 

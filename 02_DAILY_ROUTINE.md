@@ -19,6 +19,11 @@ College owns 9 AM–6 PM. You get **~2.5 hrs/day**: before college + after colle
 | 20:30–21:00 | Committing + daily log | git push + 3-line log |
 | 21:00+ | Dinner / rest | optional: 1 blog, or weekend contest |
 
+> **Never coded before? (first time you open this)** — Week 1 only: the **18:30–19:30
+> DSA slot becomes Python basics** — run `ml-code/00_python_first.py` and follow
+> `01_PYTHON_FROM_ZERO.md` (5-day ramp). LeetCode Day 1 starts the FOLLOWING Monday
+> (17 Aug). If you already code, keep the DSA slot as-is.
+
 **Sunday:** full rest + backlog repair (only if behind). Optional: 1 LeetCode contest. Two free hours extra — use for a project feature, not stress.
 
 > **Education note:** college classes are your GT-basis for everything. Never skip a class to "study DSA" — do the 2.5 hrs a day and you'll outpace crammers who burn out.

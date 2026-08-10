@@ -30,20 +30,21 @@ Each topic file has:
 |---|-------|------|------|--------------------|
 | 1 | Install everything on Windows (all link steps, PATH setup) | `00_SETUP_WINDOWS.md` | Day 1 | Every tool working: Python, Java, Node, MongoDB, MySQL, PostgreSQL, Git, VS Code, Postman |
 | 2 | Day-1 accounts + GitHub setup | `01_GETTING_STARTED.md` | Week 1 | Setup everything once |
-| 3 | Daily routine + phase calendar + daily log template + mentor kit | `02_DAILY_ROUTINE.md` + `DAILY_LOG_TEMPLATE.md` + `_MENTOR_KIT.md` | Always | Follow the clock, log daily, review weekly |
-| 4 | LeetCode Top Interview 150 (dated table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
-| 5 | LeetCode SQL Top 50 (dated table) | `04_SQL_TOP_50.md` | Tue + Sat | 2 problems/week |
-| 6 | Git & GitHub from 0 | `05_GIT_GITHUB.md` | Week 1–2 | Host all projects |
-| 7 | Full Stack project from scratch | `06_FULLSTACK.md` | W6–W29 (planner FS W1–24) | 3 portfolio projects |
-| 8 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | W30–W48 (planner ML W1–19) | Train + improve your own models |
-| 9 | Android/iOS development | `08_MOBILE_DEV.md` | W49+ (Mobile W1–12) | 2 published apps |
-| 10 | Aptitude | `09_APTITUDE.md` | Daily 30 min | Crack mass recruiter rounds |
-| 11 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
-| 12 | Aakruti + hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
-| 13 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
-| 14 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, dated from today | `13_CORE_CS_THEORY.md` | 10 Aug – 9 Sep 2026 | 12 classic questions, ≥70% on subject quizzes |
-| 15 | GD + HR + communication prep (STAR, essay, company rounds) — research-backed | `14_GD_HR.md` | Daily habit; sprint before drives | Interview-ready round 3 |
-| 16 | Week-by-week Focus planner (dated from 10 Aug 2026) | `15_WEEKLY_PLANNER.md` | W1–W60 | Source of truth for the Focus slot |
+| 3 | Python from absolute zero (no prior coding needed — run your first 20 programs) | `01_PYTHON_FROM_ZERO.md` + `ml-code/00_python_first.py` | Week 1 | Read + write basic Python |
+| 4 | Daily routine + phase calendar + daily log template + mentor kit | `02_DAILY_ROUTINE.md` + `DAILY_LOG_TEMPLATE.md` + `_MENTOR_KIT.md` | Always | Follow the clock, log daily, review weekly |
+| 5 | LeetCode Top Interview 150 (dated table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
+| 6 | LeetCode SQL Top 50 (dated table) | `04_SQL_TOP_50.md` | Tue + Sat | 2 problems/week |
+| 7 | Git & GitHub from 0 | `05_GIT_GITHUB.md` | Week 1–2 | Host all projects |
+| 8 | Full Stack project from scratch | `06_FULLSTACK.md` | W6–W29 (planner FS W1–24) | 3 portfolio projects |
+| 9 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | W30–W48 (planner ML W1–19) | Train + improve your own models |
+| 10 | Android/iOS development | `08_MOBILE_DEV.md` | W49+ (Mobile W1–12) | 2 published apps |
+| 11 | Aptitude | `09_APTITUDE.md` | Daily 30 min | Crack mass recruiter rounds |
+| 12 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
+| 13 | Aakruti + hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
+| 14 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
+| 15 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, dated from today | `13_CORE_CS_THEORY.md` | 10 Aug – 9 Sep 2026 | 12 classic questions, ≥70% on subject quizzes |
+| 16 | GD + HR + communication prep (STAR, essay, company rounds) — research-backed | `14_GD_HR.md` | Daily habit; sprint before drives | Interview-ready round 3 |
+| 17 | Week-by-week Focus planner (dated from 10 Aug 2026) | `15_WEEKLY_PLANNER.md` | W1–W60 | Source of truth for the Focus slot |
 
 ---
 
@@ -62,13 +63,14 @@ Each topic file has:
 
 | Week | Dates | DSA | SQL | Focus module (19:30) |
 |------|-------|-----|-----|----------------------|
-| W1 | 10–16 Aug | Day 1–6 (LC #1–6) | 11 + 15 Aug (#1–2) | **Core CS: DBMS** days 1–5 |
-| W2 | 17–23 Aug | Day 7–12 | — | Core CS: **OS** days 6–12 |
-| W3 | 24–30 Aug | Day 13–18 | 25 + 29 Aug (#3–4) | Core CS: **CN + SE start** |
-| W4 | 31 Aug–6 Sep | Day 19–24 | — | Core CS: finish SE + OOP |
+| W1 | 10–16 Aug | **Python from zero** (`01_PYTHON_FROM_ZERO` + `ml-code/00`) — never coded? do this | 11 + 15 Aug (#1–2) | **Core CS: DBMS** days 1–5 |
+| W2 | 17–23 Aug | Day 1–6 (LC #1–6) | — | Core CS: **OS** days 6–12 |
+| W3 | 24–30 Aug | Day 7–12 | 25 + 29 Aug (#3–4) | Core CS: **CN + SE start** |
+| W4 | 31 Aug–6 Sep | Day 13–18 | — | Core CS: finish SE + OOP |
 
-Aptitude runs every morning from W1. Full Stack officially starts **W6 (14 Sep)**
-after the Core CS sprint. Exact week grid for 60 weeks → `15_WEEKLY_PLANNER.md`.
+Aptitude runs every morning from W1. If you already code, start DSA Day 1 (10 Aug)
+and keep the ramp as reference. Full Stack officially starts **W6 (14 Sep)** after
+the Core CS sprint. Exact week grid for 60 weeks → `15_WEEKLY_PLANNER.md`.
 
 ---
 

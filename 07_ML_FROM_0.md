@@ -35,6 +35,7 @@ Word map so you're never lost in a video:
 
 ## 2. Your learning path (Phases 2 & 3 of the repo)
 
+0. **Python from absolute zero** (never coded? this comes FIRST) → `01_PYTHON_FROM_ZERO.md` + `ml-code/00_python_first.py`
 1. **Python for ML** — NumPy (math on arrays), Pandas (tables), Matplotlib (plots). → `ml-code/02`
 2. **Where data lives** — Kaggle datasets → `ml-code/03`
 3. **Clean the data** (real data is ugly): missing values, convert text→numbers, scale. → `ml-code/04`
