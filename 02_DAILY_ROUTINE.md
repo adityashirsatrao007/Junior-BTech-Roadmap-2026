@@ -4,20 +4,24 @@ Your daily pattern is the same for 2 years. The **focus module** changes by phas
 
 ---
 
-## 1. Daily clock (Mon–Sat, 9:00 AM – 6:00 PM)
+## 1. Daily clock (Mon–Sat — college runs 9 AM–6 PM, so ALL skill time is outside it)
+
+College owns 9 AM–6 PM. You get **~2.5 hrs/day**: before college + after college. That is enough — consistency beats hours.
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| 09:00–09:30 | **Aptitude** | see `09_APTITUDE.md` — 15–20 qs / 30 min |
-| 09:30–10:00 | **Revision** | re-solve yesterday's DSA problem from memory, or review notes |
-| 10:00–12:30 | **DSA (problem of the day)** | table in `03_LEETCODE_150.md` |
-| 12:30–13:30 | Lunch + break | actually leave the desk |
-| 13:30–15:30 | **SQL OR Focus module** | Tue(2) & Sat(6): do SQL from `04_SQL_TOP_50.md`; other days = focus module |
-| 15:30–16:00 | Break | walk, no screens |
-| 16:00–18:00 | **Focus module / project work** | full-stack → ML → mobile (per phase) |
-| 18:00+ | Free time | optional: read 1 blog, or a LeetCode contest on the weekend |
+| **06:30–07:00** | **Aptitude** | see `09_APTITUDE.md` — 15–20 qs / 30 min |
+| 07:00–07:20 | Morning DSA #1 | maybe re-solve yesterday's problem from memory |
+| 07:20–08:00 | Get ready / commute to college | |
+| 09:00–18:00 | **College (classes)** | solve easy LeetCode between lectures if free — not required |
+| **18:30–19:30** | **DSA (problem of the day)** | main problem from `03_LEETCODE_150.md` |
+| 19:30–20:30 | **SQL OR Focus module** | Tue(2) & Sat(6): SQL from `04_SQL_TOP_50.md`; other days = focus module |
+| 20:30–21:00 | Committing + daily log | git push + 3-line log |
+| 21:00+ | Dinner / rest | optional: 1 blog, or weekend contest |
 
-**Sunday:** full rest + backlog repair (only if behind). Optional: 1 LeetCode contest.
+**Sunday:** full rest + backlog repair (only if behind). Optional: 1 LeetCode contest. Two free hours extra — use for a project feature, not stress.
+
+> **Education note:** college classes are your GT-basis for everything. Never skip a class to "study DSA" — do the 2.5 hrs a day and you'll outpace crammers who burn out.
 
 ---
 
@@ -34,7 +38,7 @@ Your daily pattern is the same for 2 years. The **focus module** changes by phas
 
 ---
 
-## 3. Weekly snapshot (use this as your Saturday 6PM checklist)
+## 3. Weekly snapshot (use this as your Saturday-evening checklist)
 
 - [ ] 6 DSA problems solved & committed
 - [ ] 2 SQL problems solved
@@ -59,7 +63,7 @@ Your daily pattern is the same for 2 years. The **focus module** changes by phas
 1. If motivation is low, do **15 minutes** of the smallest task. Starting is the win.
 2. Never "fix your notes" instead of doing today's problem.
 3. Phone in another room during focus blocks.
-4. Saturday 6PM is weekly review time with the mentor (you, using this repo).
+4. Saturday 20:30 is weekly review time with the mentor (you, using this repo).
 
 ---
 

@@ -2,7 +2,7 @@
 
 **For:** 3rd-year BTech students | **Starts:** Mon, 10 Aug 2026 | **Goes until:** Placement season (Sem 8)
 
-Everything you need for the next ~2 years is inside this repository, in a fixed daily schedule that fits your **9:00–6:00 college hours (Mon–Sat, Sunday free)**.
+Everything you need for the next ~2 years is inside this repository, in a fixed daily schedule that fits **around your 9 AM–6 PM college hours** — skill time is early morning + evening, ~2.5 hrs/day, Mon–Sat (Sunday free).
 
 > **Read this file fully first. Then open `01_GETTING_STARTED.md` on Day 1.**
 
@@ -53,17 +53,20 @@ Each topic file has:
 
 ---
 
-## 4. The weekly clock (9–6 college time)
+## 4. The real weekly clock — skill time is OUTSIDE college (9 AM–6 PM classes)
 
-| Slot | Mon | Tue | Wed | Thu | Fri | Sat |
+College owns 9 AM–6 PM Mon–Sat. Real skill time = **every morning before 9 + every evening after 6** (~2.5 hrs/day).
+
+| Time | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
-| **9:00–9:30** | Aptitude | Aptitude | Aptitude | Aptitude | Aptitude | Aptitude (+ weekly mock) |
-| **9:30–10:00** | Revise yesterday's DSA | Same | Same | Same | Same | Same |
-| **10:00–12:30** | DSA problem (day #) | DSA problem | DSA problem | DSA problem | DSA problem | DSA problem |
-| **12:30–13:30** | Lunch | Lunch | Lunch | Lunch | Lunch | Lunch |
-| **13:30–15:30** | Focus module (*) | **SQL** | Focus module | **SQL** | Focus module | Focus module + GitHub cleanup |
-| **15:30–16:00** | Break | Break | Break | Break | Break | Break |
-| **16:00–18:00** | Focus module / project | Focus module / project | Focus module / project | Focus module / project | Focus module / project | Weekend project build |
+| **06:30–07:00** | Aptitude | Aptitude | Aptitude | Aptitude | Aptitude | Aptitude (+ weekly mock) |
+| **07:00–07:20** | Revise yesterday's DSA | Same | Same | Same | Same | Same |
+| **07:20–09:00** | Get ready + commute + classes start | | | | | |
+| **09:00–18:00** | **COLLEGE (lectures)** — 6 inline days if you're winning, else just classes | | | | | |
+| **18:30–19:30** | DSA problem (day #) | DSA problem | DSA problem | DSA problem | DSA problem | DSA problem |
+| **19:30–20:30** | Focus module (*) | **SQL** | Focus module | **SQL** | Focus module | Focus module + GitHub cleanup |
+| **20:30–21:00** | git push + 3-line log | Same | Same | Same | Same | Same |
+| **21:00+** | Rest | Rest | Rest | Rest | Rest | Weekend build extra |
 
 \* **Focus module** = whichever course is active that phase: Full Stack → ML → Mobile.
 
