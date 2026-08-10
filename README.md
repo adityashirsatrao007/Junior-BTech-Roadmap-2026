@@ -10,7 +10,7 @@ Everything you need for the next ~2 years is inside this repository, in a fixed 
 
 ## 1. What this repo is
 
-A complete, day-by-day training plan across 14 topics. The two non-negotiables of the plan:
+A complete, day-by-day training plan across 17 modules (see the table below). The two non-negotiables of the plan:
 
 1. **Daily consistency over intensity** — small daily doses, never skipped.
 2. **Build + apply > just watch** — every module ends with a *thing you make or solve*.
