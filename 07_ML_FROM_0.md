@@ -42,6 +42,7 @@ Word map so you're never lost in a video:
 5. **Tune parameters** (hyperparameters) + evaluate properly (confusion matrix, cross-validation). → `ml-code/05`
 6. **Use pretrained models** (transfer learning) for text/image — you don't always need to train from zero. → `ml-code/06`
 7. **Improve accuracy** (the kit you'll always reach for). → `ml-code/07`
+8. **Regression** (predict a number, not a class) — House Prices exercise. → `ml-code/09` (data: `data/make_house_prices.py`)
 8. **Ship it**: save/load the model, serve it behind a FastAPI/Flask endpoint, add to your full-stack app.
 
 **FREE courses to follow along:**
