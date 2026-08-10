@@ -43,10 +43,13 @@ Each topic file has:
 | 12 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
 | 13 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, dated from today | `13_CORE_CS_THEORY.md` | 10 Aug – 9 Sep 2026 | 12 classic questions, ≥70% on subject quizzes |
 | 14 | GD + HR + communication prep (STAR, essay, company rounds) — research-backed | `14_GD_HR.md` | Daily habit; sprint before drives | Interview-ready round 3 |
+| 15 | Week-by-week Focus planner (dated from 10 Aug 2026) | `15_WEEKLY_PLANNER.md` | W1–W60 | Source of truth for the Focus slot |
 
 ---
 
 ## 3. The 4 phases (2 years)
+
+> **Dates here are indicative. The exact dated week-by-week calendar lives in `15_WEEKLY_PLANNER.md` — use it, not this table, for "what do I do this week".**
 
 | Phase | Months | Focus | Exit checkpoint |
 |-------|--------|-------|-----------------|
