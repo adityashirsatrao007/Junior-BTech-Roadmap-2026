@@ -189,7 +189,27 @@ psql --version
 
 ---
 
-## 12. Common errors + fixes (copy-paste this section to whoever panics)
+## 13. AI & DS students: Jupyter + Notebooks (bonus for `12_AI_DS_TRACK.md`)
+
+Notebooks = the DS/ML home base. Two ways to run them:
+
+**Option A (easiest, no extra install):** VS Code already installed → open a `.ipynb`
+file, pick the **Python 3.x** kernel (top-right), done. Open `ds-code/01_jupyter_demo.ipynb`.
+
+**Option B — full JupyterLab:**
+```
+python -m pip install ipykernel jupyterlab
+jupyter lab            # opens in your browser
+```
+Stop it with `Ctrl+C` in the terminal. Optionally install **Anaconda** (formerdefault
+for DS) from <https://www.anaconda.com/download> — but plain `pip` + VS Code is
+lighter and just as good.
+
+Check it works: opening a notebook and running a cell prints a result (e.g. `2+2` → `4`).
+
+---
+
+## 14. Common errors + fixes (copy-paste this section to whoever panics)
 
 | You see | Cause | Fix |
 |---|---|---|

@@ -40,6 +40,7 @@ Each topic file has:
 | 10 | Aptitude | `09_APTITUDE.md` | Daily 30 min | Crack mass recruiter rounds |
 | 11 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
 | 11 | Aakruti + hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
+| 12 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
 
 ---
 

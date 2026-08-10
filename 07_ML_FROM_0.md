@@ -67,6 +67,9 @@ Or just use **Google Colab** — with Kaggle you can also run on Kaggle's free n
 
 ## 4. The FULL workflow (memorise this — it's the template for every project)
 
+> AI/DS students: do this whole loop inside **Jupyter** (see `12_AI_DS_TRACK.md` +
+> `ds-code/01_jupyter_demo.ipynb`). Notebooks ARE your lab record.
+
 ```
 1. GET DATA          (Kaggle / API / scraped)         ml-code/03
 2. EXPLORE           (shape, nulls, target balance)   ml-code/04
