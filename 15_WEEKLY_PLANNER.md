@@ -1,90 +1,87 @@
-# 15 — Week-by-Week Focus Planner (calendar dates, from TODAY 10 Aug 2026)
+# 15 — Week-by-Week Focus Planner (Week 1 = your first week; no fixed start date)
 
 This file is the **source of truth** for what the evening **Focus module** slot
-(19:30–20:30, Mon/Wed/Fri) works on each week. SQL stays Tue + Sat (`04_SQL_TOP_50.md`),
-aptitude stays mornings, Sunday = backlog review. "FS W3" = Full Stack week 3 in `06`.
+(19:30–20:30, Mon/Wed/Fri) works on each week. SQL follows `04_SQL_TOP_50.md`
+(Study Day 2 & 6), aptitude stays mornings, Sunday = backlog review. "FS W3" =
+Full Stack week 3 in `06`. **Study Days** count Mon–Sat study blocks (Sunday off)
+from whenever you begin — Day 1 and Study Day 1 are the same day.
 
 > **AI/DS students:** swap the note in ML weeks for the `12_AI_DS_TRACK.md` plan —
 > add Jupyter (ds-code), math time (Sun), and 1 Kaggle notebook/week during ML weeks.
 
 ---
 
-## Year 1 grid — Aug 2026 → Sep 2027 (Weeks 1–60)
+## Year 1 grid — Weeks 1–60 (~Study Days 1–360)
 
-| Week | Dates (Mon–Sun) | Focus module | This week you ship / milestone |
-|------|-----------------|--------------|-------------------------------|
-| W1 | 10–16 Aug | **Core CS sprint** `13` + **Python ramp** | DBMS days 1–5 done + run `00_python_first.py`, finish `01_PYTHON_FROM_ZERO.md` ramp |
-| W2 | 17–23 Aug | Core CS sprint + **DSA Day 1 starts** | OS days 6–12 mid + DSA #1–6 |
-| W3 | 24–30 Aug | Core CS sprint | CN days 13–16 done |
-| W4 | 31 Aug–6 Sep | Core CS sprint | SE days 17–21 during W4–5 |
-| W5 | 7–13 Sep | Core CS sprint + OOP | sprint done by 9 Sep: 12 classics memorised |
-| W6 | 14–20 Sep | **FS W1** `06` | HTML/CSS: first static page pushed |
-| W7 | 21–27 Sep | FS W2 | responsive layout + flexbox/grid |
-| W8 | 28 Sep–4 Oct | FS W3 | JS core: variables, functions, arrays |
-| W9 | 5–11 Oct | FS W4 | DOM events + fetch/async |
-| W10 | 12–18 Oct | FS W5 | Mini-app #1 (to-do, DOM) done |
-| W11 | 19–25 Oct | FS W6 | React: components + props |
-| W12 | 26 Oct–1 Nov | FS W7 | React state + hooks |
-| W13 | 2–8 Nov | FS W8 | Warm-end: your first React app ✦ |
-| W14 | 9–15 Nov | FS W9 | React: fetch a public API and render |
-| W15 | 16–22 Nov | FS W10 | Node/Express: routes + REST basics |
-| W16 | 23–29 Nov | FS W11 | Express middleware + error handling |
-| W17 | 30 Nov–6 Dec | FS W12 | Mini-app #2 (backend API) done |
-| W18 | 7–13 Dec | FS W13 | MongoDB: schemas + mongoose CRUD |
-| W19 | 14–20 Dec | FS W14 | Connect Mongo to Express (local db) |
-| W20 | 21–27 Dec | FS W15 | wire front+back: full MERN trace end-to-end |
-| W21 | 28 Dec–3 Jan | FS W16 | Auth: JWT login/register |
-| W22 | 4–10 Jan | FS W17 | Deploy: Render/Vercel/Netlify + env vars |
-| W23 | 11–17 Jan | FS W18 | Production pass (secrets, errors, docs) |
-| W24 | 18–24 Jan | FS W19 | YOUR project: spec + repo README |
-| W25 | 25–31 Jan | FS W20 | build core feature #1 |
-| W26 | 1–7 Feb | FS W21 | build core feature #2 |
-| W27 | 8–14 Feb | FS W22 | auth + polish + demo video |
-| W28 | 15–21 Feb | FS W23 | deploy + S.T.O.P. explanation (06 §4) |
-| W29 | 22–28 Feb | FS W24 | project locked → 3 git repos on profile |
-| W30 | 1–7 Mar | **ML W1** `07` | env_check + numpy/pandas (ml-code 01, 02) |
-| W31 | 8–14 Mar | ML W2 | dataset + Jupyter exploration (03, ds-code) |
-| W32 | 15–21 Mar | ML W3 | clean + encode (04 → data_clean.pkl) |
-| W33 | 22–28 Mar | ML W4 | baseline + LogReg (05) |
-| W34 | 29 Mar–4 Apr | ML W5 | RandomForest + confusion + CV (05) |
-| W35 | 5–11 Apr | ML W6 | tune (GridSearch) + save joblib (05) |
-| W36 | 12–18 Apr | ML W7 | accuracy kit: features/ensemble (07) |
-| W37 | 19–25 Apr | ML W8 | Titanic write-up + README done |
-| W38 | 26 Apr–2 May | ML W9 | **House Prices** (ml-code 09): explore |
-| W39 | 3–9 May | ML W10 | House Prices: clean + first model |
-| W40 | 10–16 May | ML W11 | House Prices: feature eng + tune |
-| W41 | 17–23 May | ML W12 | House Prices: submission CSV + notes |
-| W42 | 24–30 May | ML W13 | DL intro: PyTorch 60-min blitz (Colab) |
-| W43 | 31 May–6 Jun | ML W14 | transfer learning (06_transfer_learning.py) |
-| W44 | 7–13 Jun | ML W15 | Mini DL project (MNIST or sentiment) |
-| W45 | 14–20 Jun | ML W16 | serve model via API (08_serve_api.py) |
-| W46 | 21–27 Jun | ML W17 | portfolio #2: ML project README + plot |
-| W47 | 28 Jun–4 Jul | ML W18 | Kaggle practice notebooks |
-| W48 | 5–11 Jul | ML W19 | ML phase review + backlog zero |
-| W49 | 12–18 Jul | **Mobile W1** `08` | pick platform + Android Studio/HMW setup |
-| W50 | 19–25 Jul | Mobile W2 | first app: Hello + navigation |
-| W51 | 26 Jul–1 Aug | Mobile W3 | local-storage app (notes) |
-| W52 | 2–8 Aug | Mobile W4 | API app (weather style) |
-| W53 | 9–15 Aug | Mobile W5 | polish + APK build |
-| W54 | 16–22 Aug | Mobile W6 | app #2: your idea, core screen |
-| W55 | 23–29 Aug | Mobile W7 | app #2: feature complete |
-| W56 | 30 Aug–5 Sep | Mobile W8 | CI commit + README + demo video |
-| W57 | 6–12 Sep | Mobile W9 | portfolio: move app links to profile |
-| W58 | 13–19 Sep | Mobile W10 | polish resume (10), ATS check |
-| W59 | 20–26 Sep | Mobile W11 | first internship applications (10, Unstop) |
-| W60 | 27 Sep–3 Oct | Mobile W12 | P2 review: 3 projects + 50 SQ-L done |
-
-> **AI/DS students — W49–W60 = Deep DS portfolio** instead of mobile: finish House
-> Prices deep-dive, a dashboard notebook, and deploy one model to an API. Resume
-> weeks (W58–W60) stay identical.
-
+| Week | Study Days | Focus module | This week you ship / milestone |
+|------|------------|--------------|-------------------------------|
+| W1 | 1–6 | Core CS `13` + **Python ramp** (18:30 slot replaces DSA) | DBMS study-days 1–5 done + run `00_python_first.py`, finish `01_PYTHON_FROM_ZERO` ramp |
+| W2 | 7–12 | Core CS + **DSA Day 1 starts** | OS study-days 6–12 mid + DSA #1–6 |
+| W3 | 13–18 | Core CS | CN study-days 13–16 done |
+| W4 | 19–24 | Core CS | SE study-days 17–21 mid |
+| W5 | 25–30 | Core CS + OOP | sprint done by study-day 26: 12 classics memorised |
+| W6 | 31–36 | FS W1 `06` | HTML/CSS: first static page pushed |
+| W7 | 37–42 | FS W2 `06` | responsive layout + flexbox/grid |
+| W8 | 43–48 | FS W3 `06` | JS core: variables, functions, arrays |
+| W9 | 49–54 | FS W4 `06` | JS: DOM events + fetch/async |
+| W10 | 55–60 | FS W5 `06` | Mini-app #1 (to-do, DOM) done |
+| W11 | 61–66 | FS W6 `06` | React: components + props |
+| W12 | 67–72 | FS W7 `06` | React state + hooks |
+| W13 | 73–78 | FS W8 `06` | your first React app |
+| W14 | 79–84 | FS W9 `06` | React: fetch a public API and render |
+| W15 | 85–90 | FS W10 `06` | Node/Express: routes + REST basics |
+| W16 | 91–96 | FS W11 `06` | Express middleware + error handling |
+| W17 | 97–102 | FS W12 `06` | Mini-app #2 (backend API) done |
+| W18 | 103–108 | FS W13 `06` | MongoDB: schemas + mongoose CRUD |
+| W19 | 109–114 | FS W14 `06` | Connect Mongo to Express (local db) |
+| W20 | 115–120 | FS W15 `06` | wire front+back: full MERN trace end-to-end |
+| W21 | 121–126 | FS W16 `06` | Auth: JWT login/register |
+| W22 | 127–132 | FS W17 `06` | Deploy: Render/Vercel/Netlify + env vars |
+| W23 | 133–138 | FS W18 `06` | Production pass (secrets, errors, docs) |
+| W24 | 139–144 | FS W19 `06` | YOUR project: spec + repo README |
+| W25 | 145–150 | FS W20 `06` | build core feature #1 |
+| W26 | 151–156 | FS W21 `06` | build core feature #2 |
+| W27 | 157–162 | FS W22 `06` | auth + polish + demo video |
+| W28 | 163–168 | FS W23 `06` | deploy + S.T.O.P. explanation (06 §4) |
+| W29 | 169–174 | FS W24 `06` | project locked → 3 git repos on profile |
+| W30 | 175–180 | ML W1 `07` | env_check + numpy/pandas (ml-code 01, 02) |
+| W31 | 181–186 | ML W2 `07` | dataset + Jupyter exploration (03, ds-code) |
+| W32 | 187–192 | ML W3 `07` | clean + encode (04 → data_clean.pkl) |
+| W33 | 193–198 | ML W4 `07` | baseline + LogReg (05) |
+| W34 | 199–204 | ML W5 `07` | RandomForest + confusion + CV (05) |
+| W35 | 205–210 | ML W6 `07` | tune (GridSearch) + save joblib (05) |
+| W36 | 211–216 | ML W7 `07` | accuracy kit: features/ensemble (07) |
+| W37 | 217–222 | ML W8 `07` | Titanic write-up + README done |
+| W38 | 223–228 | ML W9 `07` | House Prices (ml-code/09): explore |
+| W39 | 229–234 | ML W10 `07` | House Prices: clean + first model |
+| W40 | 235–240 | ML W11 `07` | House Prices: feature eng + tune |
+| W41 | 241–246 | ML W12 `07` | House Prices: submission CSV + notes |
+| W42 | 247–252 | ML W13 `07` | DL intro: PyTorch 60-min blitz (Colab) |
+| W43 | 253–258 | ML W14 `07` | transfer learning (06_transfer_learning.py) |
+| W44 | 259–264 | ML W15 `07` | Mini DL project (MNIST or sentiment) |
+| W45 | 265–270 | ML W16 `07` | serve model via API (08_serve_api.py) |
+| W46 | 271–276 | ML W17 `07` | portfolio #2: ML project README + plot |
+| W47 | 277–282 | ML W18 `07` | Kaggle practice notebooks |
+| W48 | 283–288 | ML W19 `07` | ML phase review + backlog zero |
+| W49 | 289–294 | Mobile W1 `08` | pick platform + Android Studio setup |
+| W50 | 295–300 | Mobile W2 `08` | first app: Hello + navigation |
+| W51 | 301–306 | Mobile W3 `08` | local-storage app (notes) |
+| W52 | 307–312 | Mobile W4 `08` | API app (weather style) |
+| W53 | 313–318 | Mobile W5 `08` | polish + APK build |
+| W54 | 319–324 | Mobile W6 `08` | app #2: your idea, core screen |
+| W55 | 325–330 | Mobile W7 `08` | app #2: feature complete |
+| W56 | 331–336 | Mobile W8 `08` | CI commit + README + demo video |
+| W57 | 337–342 | Mobile W9 `08` | portfolio: move app links to profile |
+| W58 | 343–348 | Mobile W10 `08` | polish resume (10), ATS check |
+| W59 | 349–354 | Mobile W11 `08` | first internship applications (10, Unstop) |
+| W60 | 355–360 | Mobile W12 `08` | P2 review: 3 projects + SQL 50 done |
 ---
 
-## Year 2 grid — P3 (Sem 7) and P4 (Sem 8) month anchors
+## Year 2 grid — P3 (Sem 7) and P4 (Sem 8) by month
 
 | Month (2027–28) | Focus | Milestones |
 |-----------------|-------|-----------|
-| **Oct–Dec 2027** | Opportunities sprint `10` | 50+ applications, 2 shortlists, Aakruti/hackathons, free certs, LinkedIn active |
+| **Oct–Dec 2027** | Opportunities sprint `10` | 50+ applications, 2 shortlists, hackathons, free certs, LinkedIn active |
 | Jan 2028 | P4 prep `13`/`14` | core-CS wave 2, 5 STAR stories, one-page sheet |
 | Feb–Mar 2028 | Interview focus | 1 out-loud mock/day, company OAs, aptitude full mocks |
 | Apr–May 2028 | Placement season | drive rounds, offer management, then 90-day onboarding plan |
@@ -96,11 +93,11 @@ aptitude stays mornings, Sunday = backlog review. "FS W3" = Full Stack week 3 in
 
 - **Mon/Wed/Fri Focus slot** → this planner's weekly row.
 - **18:30 DSA slot** → DSA daily (`03`). *Week 1 only: replaced by the Python ramp
-  (`01_PYTHON_FROM_ZERO.md` + `ml-code/00`) for students who've never coded; DSA Day 1 = 17 Aug.*
+  (`01_PYTHON_FROM_ZERO.md` + `ml-code/00`) for students who've never coded; DSA Day 1
+  starts the week after — your DSA Day counter just starts late, no fixed date breaks.*
 - **Tue/Sat 19:30–20:30** → SQL (`04_SQL_TOP_50.md`) — never displaced.
-- **Sunday** → weekly snapshot (`02` §3) + Core CS maintenance after 12 Sep.
+- **Sunday** → weekly snapshot (`02` §3) + Core CS maintenance after study-day 26.
 - **Exam weeks** → pause Focus module (per `02`), keep aptitude + 1 DSA + SQL.
 
-The weekly **Saturday 20:30  check-in** (with the mentor) reviews the "This week you
-ship" milestone. If section is red: the next week slips the 2nd project feature first,
-never the DSA daily.
+The weekly **Saturday 20:30 check-in** reviews "This week you ship". If a section is red:
+the next week slips a project feature first — never the DSA daily.

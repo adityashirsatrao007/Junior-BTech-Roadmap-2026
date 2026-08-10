@@ -1,8 +1,8 @@
 # Junior BTech 2-Year Placement + Skill Roadmap
 
-**For:** 3rd-year BTech students | **Starts:** Mon, 10 Aug 2026 | **Goes until:** Placement season (Sem 8)
+**For:** 3rd-year BTech students | **Starts:** on **your Day 1** (pick any day) | **Goes until:** Placement season (Sem 8)
 
-Everything you need for the next ~2 years is inside this repository, in a fixed daily schedule that fits **around your 9 AM–6 PM college hours** — skill time is early morning + evening, ~2.5 hrs/day, Mon–Sat (Sunday free).
+Everything you need for the next ~2 years is inside this repository, in a fixed daily schedule that fits **around your 9 AM–6 PM college hours** — skill time is early morning + evening, ~2.5 hrs/day, Mon–Sat (Sunday free). The whole plan runs on **Day counters** (Day 1, Study Day N), so it works no matter which date you open it.
 
 > **Read this file fully first. Then open `00_SETUP_WINDOWS.md` (install every tool on Windows), then `01_GETTING_STARTED.md` on Day 1.**
 
@@ -32,45 +32,47 @@ Each topic file has:
 | 2 | Day-1 accounts + GitHub setup | `01_GETTING_STARTED.md` | Week 1 | Setup everything once |
 | 3 | Python from absolute zero (no prior coding needed — run your first 20 programs) | `01_PYTHON_FROM_ZERO.md` + `ml-code/00_python_first.py` | Week 1 | Read + write basic Python |
 | 4 | Daily routine + phase calendar + daily log template + mentor kit | `02_DAILY_ROUTINE.md` + `DAILY_LOG_TEMPLATE.md` + `_MENTOR_KIT.md` | Always | Follow the clock, log daily, review weekly |
-| 5 | LeetCode Top Interview 150 (dated table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
-| 6 | LeetCode SQL Top 50 (dated table) | `04_SQL_TOP_50.md` | Tue + Sat | 2 problems/week |
+| 5 | LeetCode Top Interview 150 (day-based table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
+| 6 | LeetCode SQL Top 50 (study-day table) | `04_SQL_TOP_50.md` | Study Days 2 & 6 | 2 problems/week |
 | 7 | Git & GitHub from 0 | `05_GIT_GITHUB.md` | Week 1–2 | Host all projects |
-| 8 | Full Stack project from scratch | `06_FULLSTACK.md` | W6–W29 (planner FS W1–24) | 3 portfolio projects |
-| 9 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | W30–W48 (planner ML W1–19) | Train + improve your own models |
-| 10 | Android/iOS development | `08_MOBILE_DEV.md` | W49+ (Mobile W1–12) | 2 published apps |
+| 8 | Full Stack project from scratch | `06_FULLSTACK.md` | W5–W28 (planner FS W1–24) | 3 portfolio projects |
+| 9 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | W29–W47 (planner ML W1–19) | Train + improve your own models |
+| 10 | Android/iOS development | `08_MOBILE_DEV.md` | W48+ (Mobile W1–12) | 2 published apps |
 | 11 | Aptitude | `09_APTITUDE.md` | Daily 30 min | Crack mass recruiter rounds |
 | 12 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
-| 13 | Aakruti + hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
+| 13 | Hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
 | 14 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
-| 15 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, dated from today | `13_CORE_CS_THEORY.md` | 10 Aug – 9 Sep 2026 | 12 classic questions, ≥70% on subject quizzes |
+| 15 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, Day-based | `13_CORE_CS_THEORY.md` | Study Days 1–26 | 12 classic questions, ≥70% on subject quizzes |
 | 16 | GD + HR + communication prep (STAR, essay, company rounds) — research-backed | `14_GD_HR.md` | Daily habit; sprint before drives | Interview-ready round 3 |
-| 17 | Week-by-week Focus planner (dated from 10 Aug 2026) | `15_WEEKLY_PLANNER.md` | W1–W60 | Source of truth for the Focus slot |
+| 17 | Week-by-week Focus planner (start-agnostic weeks) | `15_WEEKLY_PLANNER.md` | W1–W60 | Source of truth for the Focus slot |
 
 ---
 
 ## 3. The 4 phases (2 years)
 
-> **Dates here are indicative. The exact dated week-by-week calendar lives in `15_WEEKLY_PLANNER.md` — use it, not this table, for "what do I do this week".**
+> **Phase months are semester-anchored (estimate).** The day-by-day clock lives in
+> `15_WEEKLY_PLANNER.md` and runs on Study-Day counters from your own Day 1 — use it,
+> not this table, for "what do I do this week".
 
 | Phase | Months | Focus | Exit checkpoint |
 |-------|--------|-------|-----------------|
 | **P1 — Foundations** (Sem 5) | Aug 2026 – Dec 2026 | Git, DSA Level 1, HTML/CSS/JS, Python, SQL, ML basics | Solve any Easy+Medium DSA; 1 mini project |
 | **P2 — Build** (Sem 6 + summer) | Jan 2027 – Jul 2027 | DSA Level 2, SQL done, Full Stack + ML projects, Android basics, Aptitude strong | 3 portfolio projects on GitHub; 2 contests/month |
-| **P3 — Opportunities** (Sem 7) | Aug 2027 – Dec 2027 | Resume finalised, certifications, Unstop + internship applications, Aakruti/hackathons | ≥50 internship applications; ≥2 shortlists; 1 hackathon win |
+| **P3 — Opportunities** (Sem 7) | Aug 2027 – Dec 2027 | Resume finalised, certifications, Unstop + internship applications, hackathons | ≥50 internship applications; ≥2 shortlists; 1 hackathon win |
 | **P4 — Placement sprint** (Sem 8) | Jan 2028 – May 2028 | Revision, mock interviews, HF practice, opencode + Gamma for speed demos | Offer / interview-ready |
 
-### Roadmap from TODAY (Mon 10 Aug 2026) — the first 4 weeks
+### The first 4 weeks from YOUR Day 1 (start-agnostic — Day 1 = the day you begin)
 
-| Week | Dates | DSA | SQL | Focus module (19:30) |
-|------|-------|-----|-----|----------------------|
-| W1 | 10–16 Aug | **Python from zero** (`01_PYTHON_FROM_ZERO` + `ml-code/00`) — never coded? do this | 11 + 15 Aug (#1–2) | **Core CS: DBMS** days 1–5 |
-| W2 | 17–23 Aug | Day 1–6 (LC #1–6) | — | Core CS: **OS** days 6–12 |
-| W3 | 24–30 Aug | Day 7–12 | 25 + 29 Aug (#3–4) | Core CS: **CN + SE start** |
-| W4 | 31 Aug–6 Sep | Day 13–18 | — | Core CS: finish SE + OOP |
+| Week | Study Days | DSA (18:30) | SQL (19:30) | Focus module (19:30) |
+|------|-----------|-------------|-------------|----------------------|
+| W1 | 1–6 | Never coded? **Python ramp** (`01_PYTHON_FROM_ZERO` + `ml-code/00`); already code → DSA Day 1–6 (#1–6) | Days 2 + 6 (#1–2) | **Core CS: DBMS** study-days 1–5 |
+| W2 | 7–12 | DSA Day 7–12 (or Day 1 starts once ramp done) | — | Core CS: **OS** days 6–12 |
+| W3 | 13–18 | DSA Day 13–18 | Days 14 + 18 (#3–4) | Core CS: **CN + SE start** |
+| W4 | 19–24 | DSA Day 19–24 | — | Core CS: finish SE + OOP |
 
-Aptitude runs every morning from W1. If you already code, start DSA Day 1 (10 Aug)
-and keep the ramp as reference. Full Stack officially starts **W6 (14 Sep)** after
-the Core CS sprint. Exact week grid for 60 weeks → `15_WEEKLY_PLANNER.md`.
+Aptitude runs every morning from W1. If you already code, start DSA Day 1 on Day 1
+and keep the ramp as reference. Full Stack officially starts **W5** after the Core CS
+sprint. Exact start-agnostic grid for 60 weeks → `15_WEEKLY_PLANNER.md`.
 
 ---
 
@@ -126,7 +128,7 @@ College owns 9 AM–6 PM Mon–Sat. Real skill time = **every morning before 9 +
 4. **Kaggle** → https://kaggle.com (ML datasets + free micro-courses)
 5. **HackerRank / Codeforces** → practice contests
 6. **LinkedIn** → photo, headline "BTech CSE '28 | Full Stack + ML", put it on your resume
-7. **Unstop** → https://unstop.com (hackathons, internships, contests — this is where **Aakruti**, off-campus openings live)
+7. **Unstop** → https://unstop.com (hackathons, internships, contests — off-campus openings live)
 8. **Canva / Overleaf** → https://overleaf.com for the resume (see `10_...`)
 9. **Google Colab** → https://colab.research.google.com (free GPU for ML; your laptop may be enough for 90% of this plan)
 10. **Discord** (for GFG/LeetCode/Unstop communities)

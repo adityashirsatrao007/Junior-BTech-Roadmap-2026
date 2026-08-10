@@ -1,6 +1,7 @@
 # 01 — Getting Started (Day 1) · Setup Everything Once
 
-Read this on **Mon 10 Aug 2026** and complete the checklist. You will never repeat this setup.
+Read this on the day you begin (your **Day 1** — pick any day) and complete the
+checklist. You will never repeat this setup.
 
 > **First do the full Windows installs in `00_SETUP_WINDOWS.md`** — Python, Java, Node,
 > MongoDB, MySQL, PostgreSQL, Git, VS Code, Postman, all PATH steps, then the final
@@ -81,7 +82,7 @@ right now** — it's your first program, ~10 minutes. Then come back here.
 Make your first "Hello world" simultaneously on **GitHub + VS Code + terminal**:
 
 1. `git init` a folder named `hello-world`
-2. Add `hello.py` (`print("I started on 10 Aug 2026")`)
+2. Add `hello.py` (`print("I started skill-day 1 today")`)
 3. `git add . && git commit -m "Day 1"`
 4. Create a repo `hello-world` on GitHub, then `git remote add origin <url>` and `git push -u origin main`
 
@@ -106,7 +107,7 @@ Create one folder on your machine:
 Save the daily log format (notes/daily.md):
 
 ```markdown
-## 2026-08-10 (Mon)
+## Skill-day 1 (day 1 of your journey)
 - DSA: 88 Merge Sorted Array (solved after hint, revisit 7d)
 - SQL: 1757 Recyclable (JOIN/WHERE refresher)
 - Aptitude: 15 qs, avg time 2.1 min/q

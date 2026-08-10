@@ -1,4 +1,4 @@
-# 13 — Core CS Theory Revision Track (research-backed, from TODAY)
+# 13 — Core CS Theory Revision Track (research-backed, Day 1 based)
 
 **Why it exists (researched, not guessed):** interview-prep sources are consistent that
 coding + aptitude is only half the battle. Technical rounds test **DBMS, Operating
@@ -22,19 +22,22 @@ OOP   — the 4 pillars + one example each (Java), abstract class vs interface, 
 
 ---
 
-## Sprint calendar (Day 1 = Mon 10 Aug 2026, Sundays off)
+## Sprint calendar (Study Day 1 = the day any of this starts; rest on Sundays)
 
-| Study days | Dates | Subject | Sections (topic links below) |
-|-----------|-------|---------|-------------------------------|
-| 1–5 | **10–14 Aug** | **DBMS** | Architecture, ER model, keys, relational algebra, joins, normalization 1NF–3NF, ACID, concurrency, deadlock, SQL revision |
-| 6–12 | **15 + 17–22 Aug** | **OS** | Types, process mgmt (PCB), CPU scheduling, process sync (semaphores), deadlock, memory mgmt (paging/segmentation/virtual memory), page replacement |
-| 13–16 | **24–27 Aug** | **CN** | OSI/TCP-IP, IP addressing, TCP vs UDP, congestion control, DNS/HTTP/HTTPS/SMTP/FTP/DHCP |
-| 17–21 | **28–29 + 31 Aug, 1–2 Sep** | **Software Engg** | SDLC + models, COCOMO, SRS, testing (black/white box), coupling & cohesion |
-| 22–26 | **3–9 Sep** | **OOP** | 4 pillars, class/object, abstract vs interface, overloading vs overriding, GC in Java |
+Study Day 1 is *not* a calendar date — it's whatever day you begin. Follow the Study
+Day counter regardless of when you start.
 
-> **Weekly cadence after the sprint (from 12 Sep):** every **Sunday streak session**
-> 45 min — one subject's Question Bank (quiz links below) + 2 classic questions out loud.
-> That keeps theory alive until placement season without blocking your project time.
+| Study days | Subject | Sections (topic links below) |
+|-----------|---------|-------------------------------|
+| 1–5 | **DBMS** | Architecture, ER model, keys, relational algebra, joins, normalization 1NF–3NF, ACID, concurrency, deadlock, SQL revision |
+| 6–12 | **OS** | Types, process mgmt (PCB), CPU scheduling, process sync (semaphores), deadlock, memory mgmt (paging/segmentation/virtual memory), page replacement |
+| 13–16 | **CN** | OSI/TCP-IP, IP addressing, TCP vs UDP, congestion control, DNS/HTTP/HTTPS/SMTP/FTP/DHCP |
+| 17–21 | **Software Engg** | SDLC + models, COCOMO, SRS, testing (black/white box), coupling & cohesion |
+| 22–26 | **OOP** | 4 pillars, class/object, abstract vs interface, overloading vs overriding, GC in Java |
+
+> **Weekly cadence after the sprint:** every **Sunday** 45 min — one subject's Question
+> Bank (quiz links below) + 2 classic questions out loud. That keeps theory alive until
+> placement season without blocking your project time.
 
 ---
 
@@ -93,5 +96,5 @@ OOP   — the 4 pillars + one example each (Java), abstract class vs interface, 
 - Deep-dive video crash course: "Complete Core CS Explained in 60 Mins | OS, DBMS, CN"
   (Vivek Gupta, ~1h) — watch once before Day 1 for the big picture.
 
-**Verification when done (Sep 9):** you should be able to answer all 12 classics
+**Verification when the 26-day sprint is done:** you should be able to answer all 12 classics
 above out loud in 60 seconds each, and score ≥70% on the GFG subject quizzes.

@@ -21,8 +21,8 @@ College owns 9 AM–6 PM. You get **~2.5 hrs/day**: before college + after colle
 
 > **Never coded before? (first time you open this)** — Week 1 only: the **18:30–19:30
 > DSA slot becomes Python basics** — run `ml-code/00_python_first.py` and follow
-> `01_PYTHON_FROM_ZERO.md` (5-day ramp). LeetCode Day 1 starts the FOLLOWING Monday
-> (17 Aug). If you already code, keep the DSA slot as-is.
+> `01_PYTHON_FROM_ZERO.md` (5-day ramp). DSA Day 1 starts the day you finish the ramp —
+> your Day counter just begins later. If you already code, keep the DSA slot as-is.
 
 **Sunday:** full rest + backlog repair (only if behind). Optional: 1 LeetCode contest. Two free hours extra — use for a project feature, not stress.
 
@@ -36,7 +36,7 @@ College owns 9 AM–6 PM. You get **~2.5 hrs/day**: before college + after colle
 |-------|-------|--------------|---------------------|-------------|
 | **P1 Foundations** | Aug–Dec 2026 | Full Stack (HTML→CSS→JS→React) | Easy → Medium | SQL starts, Git, Python, ML theory light |
 | **P2 Build** | Jan–Jul 2027 | Full Stack backend + ML (train real models) + Android start | Medium | SQL done, aptitude gets serious, Kaggle |
-| **P3 Opportunities** | Aug–Dec 2027 | Mobile app + polish portfolio + resume/certs/applications | Medium → Hard (revision) | Aakruti/hackathons, Unstop, internships |
+| **P3 Opportunities** | Weeks 33–48 | Mobile app + polish portfolio + resume/certs/applications | Medium → Hard (revision) | Hackathons, Unstop, internships |
 | **P4 Placement sprint** | Jan–May 2028 | Mock interviews, HF problems, opencode + Gamma demo workflows | Revision + company-specific | Final resume, referrals |
 
 > **Exam weeks:** keep aptitude + 1 DSA + 1 SQL on. Drop focus module until exams end. Consistency survives exams.
@@ -59,7 +59,7 @@ College owns 9 AM–6 PM. You get **~2.5 hrs/day**: before college + after colle
 
 - **LeetCode:** try the weekly contest when Sunday is free (don't stress rank).
 - **GFG / CodeChef:** 1 contest / month minimum from Phase 2.
-- **Aakruti (college):** treat it as your *training* hackathon — join teams, learn judging criteria, present demo. Real hackathon prep → `11_HACKATHONS.md`.
+- **Every hackathon (college or local):** treat it as a *training* event — join teams, learn judging criteria, present a demo. Real hackathon prep → `11_HACKATHONS.md`.
 
 ---
 
@@ -74,13 +74,13 @@ College owns 9 AM–6 PM. You get **~2.5 hrs/day**: before college + after colle
 
 ## 6. Calendar anchors to circle
 
-- **Aug 2026:** repo setup week (Day 1 checklist).
-- **Nov/Dec:** mini hackathon (Aakruti if it happens now) — first demo experience.
+- **Weeks 1–2:** repo setup week (Day 1 checklist).
+- **Weeks 13–14 (first hackathon):** first demo experience — build (not win) is the goal.
 - **Apr/May 2027:** apply the FIRST wave of internships (summer 2027).
 - **Jun–Jul 2027:** summer sprint — this is where 60% of P2 projects happen.
 - **Aug–Dec 2027:** Unstop applications weekly + certifications.
 - **Jan–May 2028:** placement season.
 
-> Detailed dated DSA & SQL allocations live in `03_LEETCODE_150.md` (Day 1 → Day 150) and `04_SQL_TOP_50.md`.
+> Detailed day-based DSA & SQL allocations live in `03_LEETCODE_150.md` (Day 1 → Day 150) and `04_SQL_TOP_50.md`.
 
 **Next:** start Day 1 DSA — open `03_LEETCODE_150.md`, day 1 problem. And learn Git while at it (`05_GIT_GITHUB.md`).

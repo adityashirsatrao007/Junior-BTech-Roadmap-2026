@@ -36,9 +36,9 @@ Fix a **set slot** each week (e.g. Sat 20:30). Same flow every week:
 
 ---
 
-## Canary milestones (check at these dates in `15`)
+## Canary milestones (Week N = the student's own week N in `15`)
 
-- **W5** (13 Sep): Core CS sprint done — ask 3 of the 12 classics out loud.
+- **W5**: Core CS sprint done — ask 3 of the 12 classics out loud.
 - **W10**: Mini-app #1 exists & pushed.
 - **W23**: full stack deployed (they should be able to open the URL).
 - **W29**: 3 git repos, 2 READMEs, S.T.O.P. answer in 60s.
@@ -66,5 +66,5 @@ Fix a **set slot** each week (e.g. Sat 20:30). Same flow every week:
 - If 2+ students hit the same blocker, resolve it once in a 10-min group call and
   paste the fix into the repo (that's how the roadmap grows).
 
-Cross-links: the dates/weeks you check → `15_WEEKLY_PLANNER.md`; the snapshot checklist
+Cross-links: the weeks/Study Days you check → `15_WEEKLY_PLANNER.md`; the snapshot checklist
 → `02_DAILY_ROUTINE.md` §3; log format → `DAILY_LOG_TEMPLATE.md`.
