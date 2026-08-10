@@ -34,16 +34,16 @@ Each topic file has:
 | 4 | LeetCode Top Interview 150 (dated table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
 | 5 | LeetCode SQL Top 50 (dated table) | `04_SQL_TOP_50.md` | Tue + Sat | 2 problems/week |
 | 6 | Git & GitHub from 0 | `05_GIT_GITHUB.md` | Week 1–2 | Host all projects |
-| 7 | Full Stack project from scratch | `06_FULLSTACK.md` | Weeks 3–24 | 3 portfolio projects |
-| 8 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | Weeks 6–30 | Train + improve your own models |
-| 9 | Android/iOS development | `08_MOBILE_DEV.md` | Weeks 26–40 | 2 published apps |
+| 7 | Full Stack project from scratch | `06_FULLSTACK.md` | W6–W29 (planner FS W1–24) | 3 portfolio projects |
+| 8 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | W30–W48 (planner ML W1–19) | Train + improve your own models |
+| 9 | Android/iOS development | `08_MOBILE_DEV.md` | W49+ (Mobile W1–12) | 2 published apps |
 | 10 | Aptitude | `09_APTITUDE.md` | Daily 30 min | Crack mass recruiter rounds |
 | 11 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
-| 11 | Aakruti + hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
-| 12 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
-| 13 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, dated from today | `13_CORE_CS_THEORY.md` | 10 Aug – 9 Sep 2026 | 12 classic questions, ≥70% on subject quizzes |
-| 14 | GD + HR + communication prep (STAR, essay, company rounds) — research-backed | `14_GD_HR.md` | Daily habit; sprint before drives | Interview-ready round 3 |
-| 15 | Week-by-week Focus planner (dated from 10 Aug 2026) | `15_WEEKLY_PLANNER.md` | W1–W60 | Source of truth for the Focus slot |
+| 12 | Aakruti + hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
+| 13 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
+| 14 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, dated from today | `13_CORE_CS_THEORY.md` | 10 Aug – 9 Sep 2026 | 12 classic questions, ≥70% on subject quizzes |
+| 15 | GD + HR + communication prep (STAR, essay, company rounds) — research-backed | `14_GD_HR.md` | Daily habit; sprint before drives | Interview-ready round 3 |
+| 16 | Week-by-week Focus planner (dated from 10 Aug 2026) | `15_WEEKLY_PLANNER.md` | W1–W60 | Source of truth for the Focus slot |
 
 ---
 
@@ -57,6 +57,18 @@ Each topic file has:
 | **P2 — Build** (Sem 6 + summer) | Jan 2027 – Jul 2027 | DSA Level 2, SQL done, Full Stack + ML projects, Android basics, Aptitude strong | 3 portfolio projects on GitHub; 2 contests/month |
 | **P3 — Opportunities** (Sem 7) | Aug 2027 – Dec 2027 | Resume finalised, certifications, Unstop + internship applications, Aakruti/hackathons | ≥50 internship applications; ≥2 shortlists; 1 hackathon win |
 | **P4 — Placement sprint** (Sem 8) | Jan 2028 – May 2028 | Revision, mock interviews, HF practice, opencode + Gamma for speed demos | Offer / interview-ready |
+
+### Roadmap from TODAY (Mon 10 Aug 2026) — the first 4 weeks
+
+| Week | Dates | DSA | SQL | Focus module (19:30) |
+|------|-------|-----|-----|----------------------|
+| W1 | 10–16 Aug | Day 1–6 (LC #1–6) | 11 + 15 Aug (#1–2) | **Core CS: DBMS** days 1–5 |
+| W2 | 17–23 Aug | Day 7–12 | — | Core CS: **OS** days 6–12 |
+| W3 | 24–30 Aug | Day 13–18 | 25 + 29 Aug (#3–4) | Core CS: **CN + SE start** |
+| W4 | 31 Aug–6 Sep | Day 19–24 | — | Core CS: finish SE + OOP |
+
+Aptitude runs every morning from W1. Full Stack officially starts **W6 (14 Sep)**
+after the Core CS sprint. Exact week grid for 60 weeks → `15_WEEKLY_PLANNER.md`.
 
 ---
 
@@ -87,7 +99,7 @@ College owns 9 AM–6 PM Mon–Sat. Real skill time = **every morning before 9 +
 - **Solve before you watch** the solution video. 40 minutes stuck → then watch.
 - Write ALL code yourself. Typing ≠ learning; your fingers must learn.
 - Commit **every single day** to GitHub (foolproof Streak + proof of work).
-- Keep a **notebook** (GitHub repo or Notion) — log 1 thing learned per day.
+- Keep the **daily log** (template `DAILY_LOG_TEMPLATE.md`) in your own repo — the Saturday check-in reads it.
 - Re-solve problems you got wrong after 7 days. **Revision > quantity.**
 - Use **YouTube for concepts** (NeetCode, Striver, Love Babbar), but code it yourself.
 - Practice SQL, aptitude, and DSA together — don't wait to "finish" one first.
@@ -144,4 +156,4 @@ For internships, resumes, certifications and Unstop workflow → `10_RESUME_CERT
 
 ---
 
-**Next action for today:** open `01_GETTING_STARTED.md` and finish the Day-1 checklist.
+**Next action for today:** first finish the installs in `00_SETUP_WINDOWS.md`, then complete the Day 1 checklist in `01_GETTING_STARTED.md`. Use `15_WEEKLY_PLANNER.md` for what to do each week. Mentor: run the Saturday check-in with `_MENTOR_KIT.md`.
