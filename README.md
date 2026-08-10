@@ -30,7 +30,7 @@ Each topic file has:
 |---|-------|------|------|--------------------|
 | 1 | Install everything on Windows (all link steps, PATH setup) | `00_SETUP_WINDOWS.md` | Day 1 | Every tool working: Python, Java, Node, MongoDB, MySQL, PostgreSQL, Git, VS Code, Postman |
 | 2 | Day-1 accounts + GitHub setup | `01_GETTING_STARTED.md` | Week 1 | Setup everything once |
-| 3 | Daily routine + phase calendar | `02_DAILY_ROUTINE.md` | Always | Follow the clock |
+| 3 | Daily routine + phase calendar + daily log template + mentor kit | `02_DAILY_ROUTINE.md` + `DAILY_LOG_TEMPLATE.md` + `_MENTOR_KIT.md` | Always | Follow the clock, log daily, review weekly |
 | 4 | LeetCode Top Interview 150 (dated table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
 | 5 | LeetCode SQL Top 50 (dated table) | `04_SQL_TOP_50.md` | Tue + Sat | 2 problems/week |
 | 6 | Git & GitHub from 0 | `05_GIT_GITHUB.md` | Week 1–2 | Host all projects |
