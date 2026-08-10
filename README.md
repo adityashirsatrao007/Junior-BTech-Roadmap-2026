@@ -41,6 +41,7 @@ Each topic file has:
 | 11 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
 | 11 | Aakruti + hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
 | 12 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
+| 13 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, dated from today | `13_CORE_CS_THEORY.md` | 10 Aug – 9 Sep 2026 | 12 classic questions, ≥70% on subject quizzes |
 
 ---
 
