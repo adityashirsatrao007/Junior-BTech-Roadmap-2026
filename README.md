@@ -4,7 +4,7 @@
 
 Everything you need for the next ~2 years is inside this repository, in a fixed daily schedule that fits **around your 9 AM–6 PM college hours** — skill time is early morning + evening, ~2.5 hrs/day, Mon–Sat (Sunday free). The whole plan runs on **Day counters** (Day 1, Study Day N), so it works no matter which date you open it.
 
-> **Read this file fully first. Then open `00_SETUP_WINDOWS.md` (install every tool on Windows), then `01_GETTING_STARTED.md` on Day 1.**
+> **Read this file fully first. Then open [00_SETUP_WINDOWS.md](00_SETUP_WINDOWS.md) (install every tool on Windows), then [01_GETTING_STARTED.md](01_GETTING_STARTED.md) on Day 1.**
 
 ---
 
@@ -28,23 +28,23 @@ Each topic file has:
 
 | # | Topic | File | When | Skill level target |
 |---|-------|------|------|--------------------|
-| 1 | Install everything on Windows (all link steps, PATH setup) | `00_SETUP_WINDOWS.md` | Day 1 | Every tool working: Python, Java, Node, MongoDB, MySQL, PostgreSQL, Git, VS Code, Postman |
-| 2 | Day-1 accounts + GitHub setup | `01_GETTING_STARTED.md` | Week 1 | Setup everything once |
-| 3 | Python from absolute zero (no prior coding needed — run your first 20 programs) | `01_PYTHON_FROM_ZERO.md` + `ml-code/00_python_first.py` | Week 1 | Read + write basic Python |
-| 4 | Daily routine + phase calendar + daily log template + mentor kit | `02_DAILY_ROUTINE.md` + `DAILY_LOG_TEMPLATE.md` + `_MENTOR_KIT.md` | Always | Follow the clock, log daily, review weekly |
-| 5 | LeetCode Top Interview 150 (day-based table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
-| 6 | LeetCode SQL Top 50 (study-day table) | `04_SQL_TOP_50.md` | Study Days 2 & 6 | 2 problems/week |
-| 7 | Git & GitHub from 0 | `05_GIT_GITHUB.md` | Week 1–2 | Host all projects |
-| 8 | Full Stack project from scratch | `06_FULLSTACK.md` | W5–W28 (planner FS W1–24) | 3 portfolio projects |
-| 9 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | W29–W47 (planner ML W1–19) | Train + improve your own models |
-| 10 | Android/iOS development | `08_MOBILE_DEV.md` | W48+ (Mobile W1–12) | 2 published apps |
-| 11 | Aptitude | `09_APTITUDE.md` | Daily 30 min | Crack mass recruiter rounds |
-| 12 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
-| 13 | Hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
-| 14 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | `12_AI_DS_TRACK.md` + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
-| 15 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, Day-based | `13_CORE_CS_THEORY.md` | Study Days 1–26 | 12 classic questions, ≥70% on subject quizzes |
-| 16 | GD + HR + communication prep (STAR, essay, company rounds) — research-backed | `14_GD_HR.md` | Daily habit; sprint before drives | Interview-ready round 3 |
-| 17 | Week-by-week Focus planner (start-agnostic weeks) | `15_WEEKLY_PLANNER.md` | W1–W60 | Source of truth for the Focus slot |
+| 1 | Install everything on Windows (all link steps, PATH setup) | [00_SETUP_WINDOWS.md](00_SETUP_WINDOWS.md) | Day 1 | Every tool working: Python, Java, Node, MongoDB, MySQL, PostgreSQL, Git, VS Code, Postman |
+| 2 | Day-1 accounts + GitHub setup | [01_GETTING_STARTED.md](01_GETTING_STARTED.md) | Week 1 | Setup everything once |
+| 3 | Python from absolute zero (no prior coding needed — run your first 20 programs) | [01_PYTHON_FROM_ZERO.md](01_PYTHON_FROM_ZERO.md) + [ml-code/00_python_first.py](ml-code/00_python_first.py) | Week 1 | Read + write basic Python |
+| 4 | Daily routine + phase calendar + daily log template + mentor kit | [02_DAILY_ROUTINE.md](02_DAILY_ROUTINE.md) + [DAILY_LOG_TEMPLATE.md](DAILY_LOG_TEMPLATE.md) + [_MENTOR_KIT.md](_MENTOR_KIT.md) | Always | Follow the clock, log daily, review weekly |
+| 5 | LeetCode Top Interview 150 (day-based table + companies) | [03_LEETCODE_150.md](03_LEETCODE_150.md) | Day 1 → Day 150 | 1 problem/day Mon–Sat |
+| 6 | LeetCode SQL Top 50 (study-day table) | [04_SQL_TOP_50.md](04_SQL_TOP_50.md) | Study Days 2 & 6 | 2 problems/week |
+| 7 | Git & GitHub: the complete course from zero (account → commit → branches → PRs → forks → profile) | [05_GIT_GITHUB.md](05_GIT_GITHUB.md) | Week 1–2 | Host all projects |
+| 8 | Full Stack project from scratch | [06_FULLSTACK.md](06_FULLSTACK.md) | W5–W28 (planner FS W1–24) | 3 portfolio projects |
+| 9 | Machine Learning from 0 (with runnable code) | [07_ML_FROM_0.md](07_ML_FROM_0.md) + `ml-code/` | W29–W47 (planner ML W1–19) | Train + improve your own models |
+| 10 | Android/iOS development | [08_MOBILE_DEV.md](08_MOBILE_DEV.md) | W48+ (Mobile W1–12) | 2 published apps |
+| 11 | Aptitude | [09_APTITUDE.md](09_APTITUDE.md) | Daily 30 min | Crack mass recruiter rounds |
+| 12 | Overleaf resume, certifications, internships, Unstop | [10_RESUME_CERTS_INTERN.md](10_RESUME_CERTS_INTERN.md) | Month 3 onwards | Hire-ready profile |
+| 13 | Hackathons + opencode + Gamma AI | [11_HACKATHONS.md](11_HACKATHONS.md) | Sem 7–8 | Wins + fast demos |
+| 14 | AI & Data Science track (AI/DS students): Jupyter, math, DL, DS portfolio | [12_AI_DS_TRACK.md](12_AI_DS_TRACK.md) + `ds-code/` | Month 1 onwards | Analyst/DS/DL ready |
+| 15 | Core CS theory revision track (DBMS, OS, CN, SE, OOP) — research-backed, Day-based | [13_CORE_CS_THEORY.md](13_CORE_CS_THEORY.md) | Study Days 1–26 | 12 classic questions, ≥70% on subject quizzes |
+| 16 | GD + HR + communication prep (STAR, essay, company rounds) — research-backed | [14_GD_HR.md](14_GD_HR.md) | Daily habit; sprint before drives | Interview-ready round 3 |
+| 17 | Week-by-week Focus planner (start-agnostic weeks) | [15_WEEKLY_PLANNER.md](15_WEEKLY_PLANNER.md) | W1–W60 | Source of truth for the Focus slot |
 
 ---
 
@@ -155,9 +155,9 @@ If you miss days, **repair the backlog on Sunday**, never by stacking 3 topics n
 - Rule: type the code -> run it -> if stuck, ask the AI "explain my bug", not "write the solution".
 - AI is a *multiplier* only when your fundamentals are real. Hollywood interviews will test you face-to-face.
 
-For the full hackathon + AI speed-workflow guide (incl. **opencode** and **Gamma AI** for decks) → `11_HACKATHONS.md`.
-For internships, resumes, certifications and Unstop workflow → `10_RESUME_CERTS_INTERN.md`.
+For the full hackathon + AI speed-workflow guide (incl. **opencode** and **Gamma AI** for decks) → [11_HACKATHONS.md](11_HACKATHONS.md).
+For internships, resumes, certifications and Unstop workflow → [10_RESUME_CERTS_INTERN.md](10_RESUME_CERTS_INTERN.md).
 
 ---
 
-**Next action for today:** first finish the installs in `00_SETUP_WINDOWS.md`, then complete the Day 1 checklist in `01_GETTING_STARTED.md`. Use `15_WEEKLY_PLANNER.md` for what to do each week. Mentor: run the Saturday check-in with `_MENTOR_KIT.md`.
+**Next action for today:** first finish the installs in [00_SETUP_WINDOWS.md](00_SETUP_WINDOWS.md), then complete the Day 1 checklist in [01_GETTING_STARTED.md](01_GETTING_STARTED.md). Use `15_WEEKLY_PLANNER.md` for what to do each week. Mentor: run the Saturday check-in with `_MENTOR_KIT.md`.

@@ -14,8 +14,8 @@ College owns 9 AM–6 PM. You get **~2.5 hrs/day**: before college + after colle
 | 07:00–07:20 | Morning DSA #1 | maybe re-solve yesterday's problem from memory |
 | 07:20–08:00 | Get ready / commute to college | |
 | 09:00–18:00 | **College (classes)** | solve easy LeetCode between lectures if free — not required |
-| **18:30–19:30** | **DSA (problem of the day)** | main problem from `03_LEETCODE_150.md` |
-| 19:30–20:30 | **SQL OR Focus module** | Tue(2) & Sat(6): SQL from `04_SQL_TOP_50.md`; other days = focus module |
+| **18:30–19:30** | **DSA (problem of the day)** | main problem from [03_LEETCODE_150.md](03_LEETCODE_150.md) |
+| 19:30–20:30 | **SQL OR Focus module** | Tue(2) & Sat(6): SQL from [04_SQL_TOP_50.md](04_SQL_TOP_50.md); other days = focus module |
 | 20:30–21:00 | Committing + daily log | git push + 3-line log |
 | 21:00+ | Dinner / rest | optional: 1 blog, or weekend contest |
 
@@ -81,6 +81,6 @@ College owns 9 AM–6 PM. You get **~2.5 hrs/day**: before college + after colle
 - **Aug–Dec 2027:** Unstop applications weekly + certifications.
 - **Jan–May 2028:** placement season.
 
-> Detailed day-based DSA & SQL allocations live in `03_LEETCODE_150.md` (Day 1 → Day 150) and `04_SQL_TOP_50.md`.
+> Detailed day-based DSA & SQL allocations live in [03_LEETCODE_150.md](03_LEETCODE_150.md) (Day 1 → Day 150) and [04_SQL_TOP_50.md](04_SQL_TOP_50.md).
 
-**Next:** start Day 1 DSA — open `03_LEETCODE_150.md`, day 1 problem. And learn Git while at it (`05_GIT_GITHUB.md`).
+**Next:** start Day 1 DSA — open [03_LEETCODE_150.md](03_LEETCODE_150.md), day 1 problem. And learn Git while at it ([05_GIT_GITHUB.md](05_GIT_GITHUB.md)).

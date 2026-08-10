@@ -3,7 +3,7 @@
 Read this on the day you begin (your **Day 1** — pick any day) and complete the
 checklist. You will never repeat this setup.
 
-> **First do the full Windows installs in `00_SETUP_WINDOWS.md`** — Python, Java, Node,
+> **First do the full Windows installs in [00_SETUP_WINDOWS.md](00_SETUP_WINDOWS.md)** — Python, Java, Node,
 > MongoDB, MySQL, PostgreSQL, Git, VS Code, Postman, all PATH steps, then the final
 > verify block. Come back here after every version command prints a number.
 
@@ -76,7 +76,7 @@ gh auth login
 
 ## 4. Day-1 mini victory (build momentum)
 
-**Never coded before? Start with `01_PYTHON_FROM_ZERO.md` + run `ml-code/00_python_first.py`
+**Never coded before? Start with [01_PYTHON_FROM_ZERO.md](01_PYTHON_FROM_ZERO.md) + run `ml-code/00_python_first.py`
 right now** — it's your first program, ~10 minutes. Then come back here.
 
 Make your first "Hello world" simultaneously on **GitHub + VS Code + terminal**:
@@ -88,7 +88,7 @@ Make your first "Hello world" simultaneously on **GitHub + VS Code + terminal**:
 
 Now your GitHub has a green square. Do this **every day from now on** — with real work, not empty commits.
 
-Full Git training → `05_GIT_GITHUB.md`.
+Full Git training → [05_GIT_GITHUB.md](05_GIT_GITHUB.md) — the complete Git/GitHub course, from account creation to pull requests.
 
 ---
 
@@ -133,4 +133,4 @@ Save the daily log format (notes/daily.md):
 ## Result after Day 1-2
 You have: all 10 tools working, all 10 accounts, your first GitHub push, a notes folder, and a winning habit. That's the hardest week done — everything from here is just showing up daily.
 
-**Next:** `02_DAILY_ROUTINE.md` to know exactly what happens at which hour for 2 years.
+**Next:** [02_DAILY_ROUTINE.md](02_DAILY_ROUTINE.md) to know exactly what happens at which hour for 2 years.
