@@ -4,7 +4,7 @@
 
 Everything you need for the next ~2 years is inside this repository, in a fixed daily schedule that fits **around your 9 AM–6 PM college hours** — skill time is early morning + evening, ~2.5 hrs/day, Mon–Sat (Sunday free).
 
-> **Read this file fully first. Then open `01_GETTING_STARTED.md` on Day 1.**
+> **Read this file fully first. Then open `00_SETUP_WINDOWS.md` (install every tool on Windows), then `01_GETTING_STARTED.md` on Day 1.**
 
 ---
 
@@ -28,16 +28,17 @@ Each topic file has:
 
 | # | Topic | File | When | Skill level target |
 |---|-------|------|------|--------------------|
-| 1 | Day-1 setup, accounts, tools | `01_GETTING_STARTED.md` | Week 1 | Setup everything once |
-| 2 | Daily routine + phase calendar | `02_DAILY_ROUTINE.md` | Always | Follow the clock |
-| 3 | LeetCode Top Interview 150 (dated table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
-| 4 | LeetCode SQL Top 50 (dated table) | `04_SQL_TOP_50.md` | Tue + Sat | 2 problems/week |
-| 5 | Git & GitHub from 0 | `05_GIT_GITHUB.md` | Week 1–2 | Host all projects |
-| 6 | Full Stack project from scratch | `06_FULLSTACK.md` | Weeks 3–24 | 3 portfolio projects |
-| 7 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | Weeks 6–30 | Train + improve your own models |
-| 8 | Android/iOS development | `08_MOBILE_DEV.md` | Weeks 26–40 | 2 published apps |
-| 9 | Aptitude | `09_APTITUDE.md` | Daily 30 min | Crack mass recruiter rounds |
-| 10 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
+| 1 | Install everything on Windows (all link steps, PATH setup) | `00_SETUP_WINDOWS.md` | Day 1 | Every tool working: Python, Java, Node, MongoDB, MySQL, PostgreSQL, Git, VS Code, Postman |
+| 2 | Day-1 accounts + GitHub setup | `01_GETTING_STARTED.md` | Week 1 | Setup everything once |
+| 3 | Daily routine + phase calendar | `02_DAILY_ROUTINE.md` | Always | Follow the clock |
+| 4 | LeetCode Top Interview 150 (dated table + companies) | `03_LEETCODE_150.md` | Day 1 → Day 150 | 1 problem/day Mon–Sat |
+| 5 | LeetCode SQL Top 50 (dated table) | `04_SQL_TOP_50.md` | Tue + Sat | 2 problems/week |
+| 6 | Git & GitHub from 0 | `05_GIT_GITHUB.md` | Week 1–2 | Host all projects |
+| 7 | Full Stack project from scratch | `06_FULLSTACK.md` | Weeks 3–24 | 3 portfolio projects |
+| 8 | Machine Learning from 0 (with runnable code) | `07_ML_FROM_0.md` + `ml-code/` | Weeks 6–30 | Train + improve your own models |
+| 9 | Android/iOS development | `08_MOBILE_DEV.md` | Weeks 26–40 | 2 published apps |
+| 10 | Aptitude | `09_APTITUDE.md` | Daily 30 min | Crack mass recruiter rounds |
+| 11 | Overleaf resume, certifications, internships, Unstop | `10_RESUME_CERTS_INTERN.md` | Month 3 onwards | Hire-ready profile |
 | 11 | Aakruti + hackathons + opencode + Gamma AI | `11_HACKATHONS.md` | Sem 7–8 | Wins + fast demos |
 
 ---
@@ -110,7 +111,7 @@ College owns 9 AM–6 PM Mon–Sat. Real skill time = **every morning before 9 +
 9. **Google Colab** → https://colab.research.google.com (free GPU for ML; your laptop may be enough for 90% of this plan)
 10. **Discord** (for GFG/LeetCode/Unstop communities)
 
-> Full Day-1 checklist + tool installs → `01_GETTING_STARTED.md`.
+> Full Day-1 checklist + tool installs → `00_SETUP_WINDOWS.md` (all installs) then `01_GETTING_STARTED.md`.
 
 ---
 

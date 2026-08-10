@@ -2,6 +2,10 @@
 
 Read this on **Mon 10 Aug 2026** and complete the checklist. You will never repeat this setup.
 
+> **First do the full Windows installs in `00_SETUP_WINDOWS.md`** — Python, Java, Node,
+> MongoDB, MySQL, PostgreSQL, Git, VS Code, Postman, all PATH steps, then the final
+> verify block. Come back here after every version command prints a number.
+
 ---
 
 ## Why this matters
